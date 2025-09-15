@@ -29,7 +29,7 @@ version = "0.3.4"
 description = "🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch"
 readme = "README.md"
 license = { text = "Apache-2.0" }
-requires-python = ">=3.10"
+requires-python = ">=3.8"
 authors = [
     { name = "Rémi Cadène", email = "re.cadene@gmail.com" },
     { name = "Simon Alibert", email = "alibert.sim@gmail.com" },
@@ -70,7 +70,7 @@ dependencies = [
     "av>=14.2.0",
     "jsonlines>=4.0.0",
     "packaging>=24.2",
-    "pynput>=1.7.7",
+    #"pynput>=1.7.7",
     "pyserial>=3.5",
     "wandb>=0.20.0",
 
