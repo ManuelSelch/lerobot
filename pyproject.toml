@@ -75,7 +75,7 @@ dependencies = [
     "wandb>=0.20.0",
 
     "torch", # TODO: Bumb dependency
-    "torchcodec"
+    "torchcodec",
     "torchvision", # TODO: Bumb dependency
 
     "draccus==0.10.0", # TODO: Remove ==
